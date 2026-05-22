@@ -1,4 +1,4 @@
-# ThumbCraft – KI Thumbnail Generator
+ # ThumbCraft – KI Thumbnail Generator
 
 Professionelle YouTube-Thumbnails in Sekunden, powered by Claude AI.
 
